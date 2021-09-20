@@ -9,13 +9,10 @@ public class name {
 	}
 	
 	public static void show() {
-		int[] arr = {1,2,3,4,4};
-		int sum=0;
-		
-		for(int n:arr)
+		int[] arr = {12,34,56,56};
+		for(int i=0;i<100;i++)
 		{
-			sum+=n;
-			System.out.println(n);
+			System.out.println(arr[i]);
 		}
 		System.out.println("Show method here !");
 		
