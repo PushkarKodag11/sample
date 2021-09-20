@@ -16,6 +16,7 @@ public class name {
 		{
 			sum+=n;
 			System.out.println(n);
+			System.out.println(n);
 		}
 		System.out.println("Show method here !");
 		
