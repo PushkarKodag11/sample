@@ -9,6 +9,11 @@ public class name {
 	}
 	
 	public static void show() {
+		int[] arr = {12,34,56,56};
+		for(int i=0;i<100;i++)
+		{
+			System.out.println(arr[i]);
+		}
 		System.out.println("Show method here !");
 		
 	}
