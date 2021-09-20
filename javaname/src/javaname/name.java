@@ -15,7 +15,8 @@ public class name {
 		for(int n:arr)
 		{
 			sum+=n;
-			System.out.println(n);
+			
+			
 			System.out.println(n);
 		}
 		System.out.println("Show method here !");
